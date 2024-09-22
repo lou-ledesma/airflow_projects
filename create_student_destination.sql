@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS student_destination_table (student_name VARCHAR(255), student_id INT);

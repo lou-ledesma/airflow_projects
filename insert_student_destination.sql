@@ -1,0 +1,1 @@
+INSERT INTO student_destination_table SELECT * FROM student_source_table;
