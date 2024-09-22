@@ -1,2 +1,2 @@
 # airflow_projects
-Beginner Airflow Projects
+A collection of my solo Airflow Projects
