@@ -5,7 +5,7 @@ A collection of my solo Airflow Projects. Use this README as a guide to understa
 --> "docker-compose-LocalExecutor.yml"
 
 **DAG Project List**
-1. Store_DAG.py
+1. Store_DAG.py - (Guided Project + Solo)
 - Supporting Files:
   - datacleaner.py
   - create_table.sql
@@ -14,11 +14,15 @@ A collection of my solo Airflow Projects. Use this README as a guide to understa
   - adjust_date.sql
   - raw_store_transactions.csv
  
-2.  student_dag.py
+2.  student_dag.py (Solo Project)
 - Supporting Files:
   -   create_student_source.sql
   -   insert_into_student_source.sql
   -   create_student_destination.sql
   -   insert_student_destination.sql
 
-3. my_first_dag.py
+3. my_first_dag.py (Solo Project)
+
+4. dag_plugins.py (Guided Project)
+- Supporting Files:
+  -  demo_plugin.py
